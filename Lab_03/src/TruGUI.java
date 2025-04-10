@@ -5,7 +5,7 @@ public class TruGUI extends JFrame {
     private JTextField txtSo1, txtSo2, txtKetQua;
 
     public TruGUI() {
-        setTitle("Cộng hai số");
+        setTitle("Cộng haisố");
         setSize(300, 250);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);
